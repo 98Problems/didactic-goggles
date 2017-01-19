@@ -1,0 +1,42 @@
+<!DOCTYPE=html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>index</title>
+   
+  </head>
+  <h1 style="text-align:center"> Here or There Base Compare </h1>
+ 
+    
+  <body>
+  
+    <h2> Begin your search for your next "home away from home" here. </h2>
+    
+    <button type="button" form="search">State</button>
+    <button type="button" form="search">Country</button>
+    <button type="button"
+form="search">Command</button>
+    
+<div style="margin:0 auto" align=center>
+ <form id="search"> <input type="text" placeholder="Search for..." required>
+  <input type="button" value="Search">
+ </form>
+    
+    
+    </div>
+    
+
+    <ul> 
+      <li> <a href="/">Home</a> </li>
+      <li> <a href="/">Search Bases</a> </li>
+      <li> <a href="/">Community</a>
+      </li>
+      <li> <a href="/">Contact Us</a> 
+      </li>
+    </ul>
+    
+    
+  <footer>Website designed by Lindsay Fletcher </footer>
+  </body>
+</html>
